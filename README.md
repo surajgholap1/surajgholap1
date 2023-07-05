@@ -1,24 +1,29 @@
-[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)]
+![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 <h1 align="center">Hi 👋, I'm Suraj Gholap</h1>
-<h3 align="center">I'm a student pursuing B.Tech in Data Science. Some technologies I enjoy working with Python, Data Analytics, Machine Learning, NLP</h3>
+<h2 align="center">📊📉 Data Science Enthusiast</h2>
+<h3 align="center">I'm a student pursuing B.Tech in Data Science. Some technologies I enjoy working with Python, Data Analytics, Machine Learning and NLP.</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajgholap1&label=Profile%20views&color=0e75b6&style=flat" alt="surajgholap1" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics • Data Cleaning • Web Scraping • Azure Cloud**
 
-- 💬 Ask me about **Data Science • Data Analytics • Machine Learning • Python • ChatGPT**
 
-- 📫 How to reach me **suraj.m.gholap@gmail.com**
+- 🌱 I’m currently learning: **Data Analytics • Data Cleaning • Web Scraping • Azure Cloud**
+
+- 💬 Ask me about: **Data Science • Data Analytics • Machine Learning • Python • ChatGPT**
+
+- 📫 How to reach me: **suraj.m.gholap@gmail.com**
 
 - 📄 Get My <a href="https://drive.google.com/file/d/1u56CcHIQAl2MYIzxqMmOYxurqiw6xgvA/view?usp=drive_link">Resume</a>
         
       
 
-- ⚡ Truth **Fortune favours the forbearing**
+- ⚡ Truth: **Fortune favours the forbearing**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suraj-gholap-986594192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-gholap-986594192" height="30" width="40" /></a>
 </p>
