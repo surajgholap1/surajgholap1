@@ -12,9 +12,11 @@
 
 - 📫 How to reach me **suraj.m.gholap@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u56CcHIQAl2MYIzxqMmOYxurqiw6xgvA/view?usp=sharing](https://drive.google.com/file/d/1u56CcHIQAl2MYIzxqMmOYxurqiw6xgvA/view?usp=sharing)
+- 📄 Get My <a href="https://drive.google.com/file/d/1u56CcHIQAl2MYIzxqMmOYxurqiw6xgvA/view?usp=drive_link">Resume</a>
+        
+      
 
-- ⚡ Truth : **Fortune favours the forbearing**
+- ⚡ Truth **Fortune favours the forbearing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
