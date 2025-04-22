@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Suraj Gholap</h1>
 <h2 align="center">📊📉 Data Science Enthusiast</h2>
-<h3 align="center">I'm a student pursuing B.Tech in Data Science. Some technologies I enjoy working with Python, Data Analytics, Machine Learning and NLP.</h3>
+<h3 align="center">B.Tech in Data Science | 1.3 Years of Experience as Data Analyst | Proficient in Data Analysis, Annotation & Management | Python, ML, NLP Enthusiast .</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
@@ -11,13 +11,13 @@
 
 
 
-- 🌱 I’m currently learning: **Data Analytics • Data Cleaning • Web Scraping • Azure Cloud**
+- 🌱 Skills: **Data Analytics • Data Cleaning • Web Scraping • Azure Cloud**
 
-- 💬 Ask me about: **Data Science • Data Analytics • Machine Learning • Python • ChatGPT**
+- 💬 Ask me about: **Data Science • Data Analytics • Machine Learning • Python • ChatGPT • Data Annotation • AI/LLM**
 
 - 📫 How to reach me: **suraj.m.gholap@gmail.com**
 
-- 📄 Get My <a href="https://drive.google.com/file/d/1u56CcHIQAl2MYIzxqMmOYxurqiw6xgvA/view?usp=drive_link">Resume</a>
+- 📄 Get My <a href="https://drive.google.com/file/d/1hU9bxN3VK672d2kQdgk02X_k21ztQpMM/view?usp=drive_link">Resume</a>
         
       
 
